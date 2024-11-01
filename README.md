@@ -40,45 +40,49 @@ pkg install python3
 
 # Use Tool
 ```
-git clone 
-cd 
+git clone https://github.com/NetroVM/INSTAGRAM-OSINT.git
+cd INSTAGRAM-OSINT
 pip3 install -r requirements.txt
 python main.py 
 ```
 
+
+
+
 # Fitur 
 
-______________________________
-|       Fitur      |  Status |
-|:----------------:|:-------:|
-| [1].Username     |    ✔️   |
-|                  |         |
-| [2].UserFull     |    ✔️   |
-|                  |         |
-| [3].TypeAccount  |    ✔️   |
-|                  |         |
-| [4].TargPost     |    ✔️   |
-|                  |         |
-| [5].Follwers     |    ✔️   |
-|                  |         |
-| [6].Followings   |    ✔️   |
-| [7].id           |    ✔️   |
-|                  |         |
-| [8].Bio          |    ✔️   |
-|                  |         |
-| [9].Url          |    ✔️   |
-|                  |         |
-| [10].AccountPrv  |    ✔️   |
-|                  |         |
-| [11].AccountBis  |    ✔️   |
-|                  |         |
-| [12].ProfPic     |    ✔️   |
-|                  |         |
-| [13].IGTV        |    ✔️   |
-|                  |         |
-| [14].Higlights   |    ✔️   |
-|                  |         |
-| [15].ShowFollwrs |    ✔️   |
-|                  |         |
-| [16].ShowFollwng |    ✔️   |
+_____________________________
+|       Fitur     |  Status |
+|:---------------:|:-------:|
+|[1].Username     |    ✔️   |
+|                 |         |
+|[2].UserFull     |    ✔️   |
+|                 |         |
+|[3].TypeAccount  |    ✔️   |
+|                 |         |
+|[4].TargPost     |    ✔️   |
+|                 |         |
+|[5].Follwirs     |    ✔️   |
+|                 |         |
+|[6].Followings   |    ✔️   |
+|                 |         |
+|[7].id           |    ✔️   |
+|                 |         |
+|[8].Bio          |    ✔️   |
+|                 |         |
+|[9].Url          |    ✔️   |
+|                 |         |
+|[10].AccountPrv  |    ✔️   |
+|                 |         |
+|[11].AccountBis  |    ✔️   |
+|                 |         |
+|[12].ProfPic     |    ✔️   |
+|                 |         |
+|[13].IGTV        |    ✔️   |
+|                 |         |
+|[14].Higlights   |    ✔️   |
+|                 |         |
+|[15].ShowFollwrs |    ✔️   |
+|                 |         |
+|[16].ShowFollwng |    ✔️   |
 ------------------------------
