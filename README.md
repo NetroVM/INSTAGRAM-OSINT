@@ -7,7 +7,7 @@ ini adalah alat untuk mencari informasi seseorang melalui akun Instagram.
 # Hak
 {1}. Anda mempunyai hak untuk memodifikasi script ini dan membuat project anda sendiri
 
-{2}. Kami tidak bertanggung jawab atas penyalahgunaan script untuk hal-hal berbahaya
+{2}. Kami tidak bertanggung jawab atas untuk hal-hal berbahaya
 
 
 
